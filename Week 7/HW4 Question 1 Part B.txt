@@ -1,0 +1,21 @@
+MAX	dc + da + db + dd + de + df
+ST
+	dg = 0
+	dg - de <= 7
+	dd - dg <= 2
+	dh - dg <= 3
+	da - dh <= 4
+	db - dh <= 9
+	de - db <= 10
+	db - da <= 8
+	dd - de <= 9
+	de - dd <= 25
+	dd - dc <= 3
+	df - dd <= 18
+	dc - db <= 4
+	dc - df <= 3
+	db - df <= 7
+	df - da <= 10
+	da - df <= 5
+	de - df <= 2
+END
